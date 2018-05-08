@@ -1,0 +1,8 @@
+样式表QSS跟CSS对比，Button背景设置(偏移量)还有分割图片用到什么。
+http://bbs.csdn.net/topics/390289292
+
+将textEdit中的内容转换成Qstring
+http://bbs.csdn.net/topics/360147777
+
+获取QComboBox控件中的内容
+http://zhidao.baidu.com/link?url=UGauR-nWkpycGpTwgvZif1BOxeCfksBw7ScPZmecd9vKlorv_N7qpyqAhw_8wD7ZpV-zOJ32Pm0Yk7vB9PWjra

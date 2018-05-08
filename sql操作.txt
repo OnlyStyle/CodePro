@@ -1,0 +1,3 @@
+update 表名 set 列名称 = 新值 where 列名称 = 某值
+
+update FareConfig set StartTimes=0,EndTimes=999 where TicketType=0100 and TimeCode=0 and FareID=1
